@@ -1,11 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 :root {
-    /* base theme color */
-    --wy-theme-color: rgb(183, 255, 0);
-  }
-  
-  wy-chat {
-    /* override inherited font */
-    --wy-font-family: monospace;
-  }
+  /* base theme color */
+  --wy-theme-color: rgb(234, 255, 0);
+}
+
+wy-chat {
+  /* override inherited font */
+  --wy-font-family: 'Brush Script MT', cursive;
+  /* font-family: 'Brush Script MT', cursive; */
+  --wy-theme-color: rgb(0, 255, 195);
+}
   
